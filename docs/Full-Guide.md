@@ -20,7 +20,7 @@ Zohhak:
 Many aspects of splitting and coercing can be configured. Zohhak uses its default configuration which can be overridden with class and/or method level configurations.
 
 ### Basic usage
-First of all check [Out of the box](Quick-Start#out-of-the-box) section in quick start. In case you are too lazy, a short snippet:
+First of all check [Out of the box](Quick-Start.md#out-of-the-box) section in quick start. In case you are too lazy, a short snippet:
 ```java
 @RunWith(ZohhakRunner.class)
 public class CoercionTest {
