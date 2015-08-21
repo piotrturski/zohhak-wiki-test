@@ -17,7 +17,7 @@ Zohhak:
   1. coerces each string to the corresponding method's parameter (e.g. Employee, Money, ClientType)
   1. executes method with produced parameters
 
-Many aspects of splitting and coercing can be configured. Zohhak uses it's default configuration which can be overridden with class and/or method level configurations.
+Many aspects of splitting and coercing can be configured. Zohhak uses its default configuration which can be overridden with class and/or method level configurations.
 
 ### Basic usage
 First of all check [Out of the box](Quick-Start#out-of-the-box) section in quick start. In case you are too lazy, a short snippet:
