@@ -20,7 +20,7 @@ public class HelloWorldTest {
 ```
 This will run two tests: `should_add_numbers(2, 1, 3)` and `should_add_numbers(3, 5, 8)`. Each execution will be reported as an independent test.
 ### Out of the box
-Some types are supported by default: primitives, wrappers, enums etc. Full list of those types is in [Basic usage](Full-Guide#basic-usage) section.
+Some types are supported by default: primitives, wrappers, enums etc. Full list of those types is in [Basic usage](Full-Guide.md#basic-usage) section.
 ```java
 @RunWith(ZohhakRunner.class)
 public class CoercingTest {
@@ -108,4 +108,4 @@ public class UserCoercionTest {
     }
 }
 ```
-and many, many more. See the [Full Guide](Full-Guide).
+and many, many more. See the [Full Guide](Full-Guide.md).
