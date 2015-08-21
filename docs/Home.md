@@ -15,7 +15,7 @@ No plugin needed. Just run and you'll see:<br />
 
 ![http://wiki.zohhak.googlecode.com/git/img/eclipse_run.gif](http://wiki.zohhak.googlecode.com/git/img/eclipse_run.gif)
 #### Start using Zohhak
-Get Java 5+, JUnit 4.5+ and read 3 minute [Quick Start](Quick-Start) or [Full Guide](Full-Guide)
+Get Java 5+, JUnit 4.5+ and read 3 minute [Quick Start](Quick-Start.md) or [Full Guide](Full-Guide.md)
 ```xml
 <dependency>
     <groupId>com.googlecode.zohhak</groupId>
